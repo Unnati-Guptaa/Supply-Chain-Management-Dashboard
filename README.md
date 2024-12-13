@@ -86,6 +86,10 @@ Lead Time Efficiency: Evaluates how effectively lead times are managed.
 Shipping Cost per Unit: Calculates the cost of shipping per product.
 Days in Inventory: Measures how long stock lasts based on order quantities.
 
+## Project Tableau URL Link
+
+(https://public.tableau.com/app/profile/unnati.gupta7495/viz/SupplyChainManagementProject_17340962916370/Story1#1)
+
 ## Conclusion
 
 This project provides valuable insights into the efficiency of the supply chain, product performance, and customer demographics. The findings will help the startup optimize their operations, reduce costs, and improve profitability. This project is an important part of my internship at Unified Mentors, and I am proud to contribute meaningful insights that can drive business decisions.
