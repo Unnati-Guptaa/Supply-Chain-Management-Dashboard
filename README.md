@@ -1,7 +1,7 @@
 # Supply Chain Management Dashboard
 
 ## Project Overview
-This project is part of my internship at **Unified Mentors**, where I am working on analyzing the supply chain of a Fashion and Beauty startup that sells makeup products. The goal is to use data analysis to gain insights into product performance, customer behavior, and the overall supply chain. The project involves cleaning the data, exploring it, creating new features, and building an interactive dashboard using Streamlit to visualize important metrics.
+This project is part of my internship at **Unified Mentor**, where I am working on analyzing the supply chain of a Fashion and Beauty startup that sells makeup products. The goal is to use data analysis to gain insights into product performance, customer behavior, and the overall supply chain. The project involves cleaning the data, exploring it, creating new features, and building an interactive dashboard using Streamlit to visualize important metrics.
 
 
 
